@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cristal",
+    "name": "Apostila Cristal",
+    "image": "assets/cristal.png",
+    "description": "Jardim das Ideias • estimulação cognitiva infantil",
+    "pages": 28,
+    "price": null,
+    "checkoutUrl": "",
+    "status": "draft"
+  },
+  {
+    "id": "capivara",
+    "name": "Apostila Capivara",
+    "image": "assets/capivara.png",
+    "description": "Descobertas pelo Rio • atividades educativas",
+    "pages": 20,
+    "price": null,
+    "checkoutUrl": "",
+    "status": "draft"
+  },
+  {
+    "id": "halloween",
+    "name": "Apostila Halloween",
+    "image": "assets/halloween.png",
+    "description": "Noite das Descobertas • atividades temáticas",
+    "pages": 12,
+    "price": null,
+    "checkoutUrl": "",
+    "status": "draft"
+  },
+  {
+    "id": "mujica",
+    "name": "Apostila Mujica",
+    "image": "assets/mujica.png",
+    "description": "Aventuras no Parque • estimulação cognitiva",
+    "pages": 14,
+    "price": null,
+    "checkoutUrl": "",
+    "status": "draft"
+  },
+  {
+    "id": "livro",
+    "name": "Livro RegenerAI",
+    "image": "assets/livro.png",
+    "description": "Caderno de instrumentos e práticas profissionais • venda pendente de revisão de direitos",
+    "pages": 69,
+    "price": null,
+    "checkoutUrl": "",
+    "status": "review"
+  }
+]

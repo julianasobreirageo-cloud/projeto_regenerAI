@@ -1,0 +1,7 @@
+PRÉVIA PROJETO REGENERAI
+1. Extraia o arquivo ZIP.
+2. Abra a pasta projeto-regenerai.
+3. Clique duas vezes em index.html para visualizar no navegador.
+4. Clique em Música zen para ativar o áudio ambiente sintetizado; navegadores não permitem iniciar som automaticamente.
+5. As capas são as capas reais dos PDFs enviados. Os preços e links de checkout ainda não estão configurados.
+6. Para publicar via Railway, utilize o package.json e server.js incluídos. A publicação pública das fotos de crianças exige autorização.
